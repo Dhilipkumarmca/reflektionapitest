@@ -13,7 +13,8 @@ pip install robotframework (refer https://github.com/robotframework/robotframewo
 pip install json
 *****************************************************************************************************************
 
-Git pull code
+Git pull code 
+git clone https://github.com/Dhilipkumarmca/reflektionapitest.git
 cd reflektionapitest/test
 
 run coammand in terminal
